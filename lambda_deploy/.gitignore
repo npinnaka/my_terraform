@@ -1,0 +1,6 @@
+/.idea/*
+/hello_lambda.zip
+/another_hello_lambda.zip
+/terraform.tfstate
+/.terraform/*
+/terraform.tfstate.backup

@@ -1,0 +1,8 @@
+/.idea/
+/.idea/*
+/.terraform/*
+terraform.tfstate*
+**/.terraform/*
+**/terraform.tfstate*
+backend.tf
+lambda_test.zip
