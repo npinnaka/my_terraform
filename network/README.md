@@ -1,7 +1,6 @@
-# tf_dyna_s3_event_lambda
+# network
 
-Add Multiple S3 events triggers to a lambda functions.
-I want to add multiple s3 events to trigger lambda on 3 folders in a s3 bucket
+Network data sources/resources 
 
 ## Installation
 clone or fork repo.
@@ -19,7 +18,7 @@ terraform apply
 ```
 
 ## output
-S3 bucket should have 3 events point to same lambda function on 3 folders a,b,c
+vpc id, subnets, security groups
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
